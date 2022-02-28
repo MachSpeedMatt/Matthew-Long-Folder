@@ -1,0 +1,35 @@
+h1 {
+    font-size: 35px;
+    font-family: Helvetica;
+    color:darkslategrey;
+    text-align:center;
+}
+h2 {
+    font-family: Helvetica;
+    color:darkslategrey
+}
+h3 {
+    font-size: 15px;
+    font-family: Arial;
+    color:dimgray;
+    width:45%;
+}
+p {
+
+    color:dimgray;
+    font-size: 20px;
+    font-family:Arial;
+    width:50%;
+}
+.source{font-size:10px;
+font-family:Helvetica;
+}
+table {
+    text-align:center;
+    margin-left:25%;
+    width:80;
+    font-size: 35px;
+    color:darkblue;
+    font-family:Arial;
+    background-color:darkgrey;
+}
